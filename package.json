@@ -1,0 +1,17 @@
+{
+  "name": "luno-binance-arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sky",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.9",
+    "dotenv": "^16.3.1"
+  }
+}
